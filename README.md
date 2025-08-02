@@ -98,4 +98,3 @@ Wanna add a new algorithm or make the UI even cooler?
 Let’s build it together 🚀
 ## 🔗 Live Demo
 Click here to view live
-### 🙌 Made with 💛 by Saket
