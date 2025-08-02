@@ -59,22 +59,25 @@ Whether you're a beginner or preparing for coding interviews, this tool lets you
 
 ---
 
-## 📁 Folder Structure (JavaScript Version)
+## 📁 Project Structure
+
+```plaintext
 /src
 ├── algorithms/
-│ └── sorting.js
-│ └── graph.js
-│ └── tree.js
+│   ├── sorting.js
+│   ├── graph.js
+│   └── tree.js
 ├── components/
-│ ├── ArrayVisualizer.js
-│ ├── LinkedListVisualizer.js
-│ ├── TreeVisualizer.js
-│ ├── GraphVisualizer.js
-│ └── Controls.js
+│   ├── ArrayVisualizer.js
+│   ├── LinkedListVisualizer.js
+│   ├── TreeVisualizer.js
+│   ├── GraphVisualizer.js
+│   └── Controls.js
 ├── App.js
-├── index.js
+└── index.js
 
----
+
+```
 
 ## 💻 Getting Started
 
